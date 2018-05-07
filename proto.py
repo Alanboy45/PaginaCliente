@@ -1,7 +1,7 @@
 
 def inicio():
     print("hola")
-    a=1
+    a=4
     print(a)
 
 inicio()
